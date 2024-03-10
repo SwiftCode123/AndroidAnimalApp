@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">and101project3</string>
+    <string name="_13_16">13:16</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sharing_icon">sharing icon</string>
+    <string name="edit_page">edit page</string>
+    <string name="calender">calender</string>
+    <string name="re_enter_password">Re-enter Password</string>
+    <string name="terms_and_conditions">Terms and conditions</string>
+    <string name="google_image">google image</string>
+</resources>
