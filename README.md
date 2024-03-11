@@ -43,7 +43,7 @@ I have chosen to duplicate the following layout from the **Twitch sign up** app:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-![and101project3](https://github.com/SwiftCode123/AndroidAnimalApp/assets/94758977/dd19ab2c-bc82-4c36-9375-182d917cdf40)
+![and101project3](https://github.com/SwiftCode123/AndroidAnimalApp/assets/94758977/2f7a5267-9efa-4b0f-9929-68270cb8fcad)
 
 GIF created with **ScreenToGif**
 
